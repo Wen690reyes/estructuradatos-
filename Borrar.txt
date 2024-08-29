@@ -1,0 +1,21 @@
+Haga clic aquí para descargar la últimaversión de 64 bits de Git para Windows ( 2.46.0 ). Esta es la compilación mantenida más reciente . Se lanzó hace 30 días , el 29 de julio de 2024.
+
+Otras descargas de Git para Windows
+Instalador independiente
+Configuración de Git de 32 bits para Windows .
+
+Configuración de Git de 64 bits para Windows .
+
+Portátil ("edición de memoria USB")
+Git de 32 bits para Windows portátil .
+
+Git de 64 bits para Windows portátil .
+
+Uso de la herramienta Winget
+Instale la herramienta winget si aún no la tiene y luego escriba este comando en el símbolo del sistema o Powershell.
+winget install --id Git.Git -e --source winget
+
+La versión actual del código fuente es la 2.46.0 . Si quieres la versión más nueva, puedes compilarla a partir del código fuente .
+
+¿Y ahora qué?
+Ahora que has descargado Git, es hora de comenzar a usarlo.

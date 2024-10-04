@@ -1,0 +1,25 @@
+/*Trabajando con estilos CSS*/
+/*usa 3 tipos de selectores cada uno con un alcance 
+/*Primera practica clases*/
+
+.fondo{
+    background-color: red;
+}
+
+.miTexto{
+    font-size: 80px;
+    color: green;
+}
+
+/*segunda practica etiqueta*/
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: gold;
+}
+
+/*Tercera practica id*/
+#titulo{
+    font-size: 24px;
+    color: #FFF000;
+
+}
